@@ -1,2 +1,2 @@
-# TEMPLATE plugin
-This is a template plugin description
+# Proxy server plugin
+Http proxy server plugin based on Titanium.Web.Proxy
