@@ -44,11 +44,11 @@
     </Reference>
     <Reference Include="SAL.Flatbed, Version=1.2.10.0, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d">
       <HintPath>..\packages\SAL.Flatbed.1.2.10\lib\net20\SAL.Flatbed.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
     </Reference>
     <Reference Include="SAL.Windows, Version=1.2.10.0, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d">
       <HintPath>..\packages\SAL.Windows.1.2.10\lib\net20\SAL.Windows.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
     </Reference>
     <Reference Include="StreamExtended, Version=1.0.190.0, Culture=neutral, PublicKeyToken=bbfa0f1d54f50043, processorArchitecture=MSIL">
       <HintPath>..\packages\StreamExtended.1.0.190\lib\net45\StreamExtended.dll</HintPath>
