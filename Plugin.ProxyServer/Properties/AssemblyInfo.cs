@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 #else
 
 [assembly: AssemblyTitle("Plugin.ProxyServer")]
-[assembly: AssemblyDescription("Http proxy server plugin based on Titanium.Web.Proxy")]
+[assembly: AssemblyDescription("HTTP(S) proxy server plugin based on Titanium.Web.Proxy")]
 #if DEBUG
 [assembly: AssemblyConfiguration("Debug")]
 #else
@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 #endif
 [assembly: AssemblyCompany("Danila Korablin")]
 [assembly: AssemblyProduct("Plugin.ProxyServer")]
-[assembly: AssemblyCopyright("Copyright © Danila Korablin 2018-2019")]
+[assembly: AssemblyCopyright("Copyright © Danila Korablin 2018-2024")]
 #endif
 
 /*if $(ConfigurationName) == Release (

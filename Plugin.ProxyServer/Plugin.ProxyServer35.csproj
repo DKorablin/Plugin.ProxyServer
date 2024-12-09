@@ -42,12 +42,12 @@
     <Reference Include="BrotliSharpLib, Version=0.3.1.0, Culture=neutral, PublicKeyToken=3f4e2a1cd615fcb7, processorArchitecture=MSIL">
       <HintPath>..\packages\BrotliSharpLib.0.3.1\lib\net462\BrotliSharpLib.dll</HintPath>
     </Reference>
-    <Reference Include="SAL.Flatbed, Version=1.2.9.2, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d, processorArchitecture=MSIL">
-      <HintPath>..\packages\SAL.Flatbed.1.2.9.2\lib\net20\SAL.Flatbed.dll</HintPath>
+    <Reference Include="SAL.Flatbed, Version=1.2.10.0, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d">
+      <HintPath>..\packages\SAL.Flatbed.1.2.10\lib\net20\SAL.Flatbed.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="SAL.Windows, Version=1.2.9.2, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d, processorArchitecture=MSIL">
-      <HintPath>..\packages\SAL.Windows.1.2.9.2\lib\net20\SAL.Windows.dll</HintPath>
+    <Reference Include="SAL.Windows, Version=1.2.10.0, Culture=neutral, PublicKeyToken=a8ac5fc45c3adb8d">
+      <HintPath>..\packages\SAL.Windows.1.2.10\lib\net20\SAL.Windows.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="StreamExtended, Version=1.0.190.0, Culture=neutral, PublicKeyToken=bbfa0f1d54f50043, processorArchitecture=MSIL">
