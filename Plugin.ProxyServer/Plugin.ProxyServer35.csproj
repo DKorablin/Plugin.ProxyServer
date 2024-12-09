@@ -50,8 +50,9 @@
       <HintPath>..\packages\SAL.Windows.1.2.10\lib\net20\SAL.Windows.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="StreamExtended, Version=1.0.190.0, Culture=neutral, PublicKeyToken=bbfa0f1d54f50043, processorArchitecture=MSIL">
-      <HintPath>..\packages\StreamExtended.1.0.190\lib\net45\StreamExtended.dll</HintPath>
+    <Reference Include="StreamExtended, Version=1.0.201.0, Culture=neutral, PublicKeyToken=bbfa0f1d54f50043">
+      <HintPath>..\packages\StreamExtended.1.0.201\lib\net45\StreamExtended.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
